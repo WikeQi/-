@@ -6,7 +6,7 @@
 
 快捷键Ctrl + N 查找Project 中的文件
 
-![20181205113714](DocPics\20181205113714.png)
+![20181205113714](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113714.png)
 
 #### 2 【技巧】未验证通过，可自动提示，无需按 Ctrl + 空格
 
@@ -14,7 +14,7 @@
 
 【statements】声明
 
-![20181205113732](C:\ADT\Code\GitHub\DevelopmentToolsDoc\docPics\20181205113732.png)
+![20181205113732](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113732.png)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-![20181205113744](C:\ADT\Code\GitHub\DevelopmentToolsDoc\docPics\20181205113744.png)
+![20181205113744](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113744.png)
 
 
 
@@ -36,7 +36,7 @@
 
 快速查看类或方法的字符的文档，按Ctrl + Q （查看 | 快捷文档）
 
-![20181205113752](C:\ADT\Code\GitHub\DevelopmentToolsDoc\docPics\20181205113752.png)
+![20181205113752](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113752.png)
 
 ####  5【技巧】 鼠标 + Ctrl 或 Ctrl + B | 跳转类，方法，变量的声明
 
@@ -46,7 +46,7 @@
 
 declaration & statement  ： 两者都有“声明”的意思，但是用场合有稍微区别。decalration着重于向外界声明一件事，或证明一件事情；而statement最常用的意思是“自述”，是当事人本人做的一种自述信。
 
-![20181205113800](C:\ADT\Code\GitHub\DevelopmentToolsDoc\docPics\20181205113800.png)
+![20181205113800](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113800.png)
 
 #### 6 【技巧】适用于所有文档编辑
 
@@ -60,7 +60,7 @@ declaration & statement  ： 两者都有“声明”的意思，但是用场合
 
 它显示当前类中的方法列表，选择一个你想去导航的元素，并且按Enter 或 F4键，简单的定位（locate）在列表中的元素，当开始输入它的名字时。
 
-![20181205113807](C:\ADT\Code\GitHub\DevelopmentToolsDoc\docPics\20181205113807.png)
+![20181205113807](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113807.png)
 
 
 
@@ -70,7 +70,7 @@ declaration & statement  ： 两者都有“声明”的意思，但是用场合
 
 
 
-![20181205113817](C:\ADT\Code\GitHub\DevelopmentToolsDoc\docPics\20181205113817.png)
+![20181205113817](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113817.png)
 
 
 

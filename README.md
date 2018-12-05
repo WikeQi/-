@@ -6,11 +6,11 @@
 
    （1） 获取github工程的地址 ： https://github.com/WikeQi/DevelopmentToolsDoc.git
 
-   ![20181205092926](docPics\20181205092926.png)
+   ![20181205092926](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics\20181205092926.png)
 
    （2.1） 本地可通过TortoiseGit 图形化界面工具clone
 
-   ![20181205093225](docPics\20181205093225.png)
+   ![20181205093225](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics\20181205093225.png)
 
    (2.2)  也可通过git 命名clone 
 
@@ -19,7 +19,7 @@
 
 2. 将本地修改push 到 master
 
-![20181205095425](docPics\20181205095425.png)
+![20181205095425](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics\20181205095425.png)
 
 1. Git Pull 是从远端拉取最新的代码，
 2. Git Fetch是从远端拉取最新的分支

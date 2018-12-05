@@ -6,11 +6,11 @@
 
    （1） 获取github工程的地址 ： https://github.com/WikeQi/DevelopmentToolsDoc.git
 
-   ![20181205092926](docPics\20181205092926.png)
+   ![github clone地址](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205092926.png)
 
    （2.1） 本地可通过TortoiseGit 图形化界面工具clone
 
-   ![20181205093225](docPics\20181205093225.png)
+   ![TortoiseGit Clone](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205093225.png)
 
    (2.2)  也可通过git 命名clone 
 

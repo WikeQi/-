@@ -72,23 +72,38 @@ declaration & statement  ： 两者都有“声明”的意思，但是用场合
 
 ![20181205113817](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181205113817.png)
 
+#### 9 【技巧】难以理解 ￣へ￣
+
+你是否注意到这按键 》 《 在这不同界面中有什么不同，你能简单的应用
+
+保持按住Ctrl 键，然后这波浪符号图标变成  ，点击这图标中的一个出现这当前视窗的内容
+
+如果你保持按住Shift，这波浪符号图标变成  X ，点击这图标去回退修改
+
+【pane panes】窗格; 方框; 窗玻璃; 【chevron】 [纹章学] 人字形图记; 波浪饰
+
+![20181206094602](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181206094602.png)
+
+#### 10 【技巧】Ctrl + Alt + Shift + Insert | Scratches模式 （可单独开专题研究说明）
+
+Scratches模式：只显示草稿文件，帮忙我们快速的实验和建立原型，可以在不修改项目和创建文件的情况下快速画出草图
+
+【Scratch Scratches】划痕 抓破 擦伤
+
+参考文档：https://segmentfault.com/a/1190000014202363
+
+
+![20181206100608](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181206100608.png)
+
+![20181206095236](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181206095236.png)
+
+#### 11 【技巧】Alt + Shift | 同时选择多个单词
+
+选择一个多个单词，通过按Alt + Shift，同时选中对应单词，并双击鼠标左键
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![20181206095309](https://github.com/WikeQi/DevelopmentToolsDoc/blob/master/docPics/20181206095309.png)
 
 
 
